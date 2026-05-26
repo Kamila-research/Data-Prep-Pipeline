@@ -1,4 +1,4 @@
-Data Engineering Pipeline: Pre-Processing for Causal Inference
+# Data Engineering Pipeline: Pre-Processing for Causal Inference
 📌 Project Overview
 This repository details the end-to-end data engineering and pre-processing pipeline designed to prepare observational site data for advanced econometric modelling. The pipeline transitions raw, unformatted records into a highly structured, statistically sound format optimised for a Regression Discontinuity (RD) design and Spatial Autocorrelation analysis.
 
